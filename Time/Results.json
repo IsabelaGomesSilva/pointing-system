@@ -1,0 +1,70 @@
+[
+  {
+    "Id": "8d91599e-10ee-4657-df06-08dcb3262cf8",
+    "Name": "teste 6",
+    "Description": "teste ",
+    "RuleSyntax": "accountId  == 5 ",
+    "IsEnable": 1,
+    "CreatedOn": "2024-08-02T19:06:10.293",
+    "CreatedBy": "Isabela Gomes Silva",
+    "RuleTypeId": 1,
+    "Order": 2
+  },
+  {
+    "Id": "f0922991-84de-478d-df07-08dcb3262cf8",
+    "Name": "teste 6",
+    "Description": "teste ",
+    "RuleSyntax": "totalHours <= 8 && totalHours >= 6 ",
+    "IsEnable": 1,
+    "CreatedOn": "2024-08-02T19:07:46.66",
+    "CreatedBy": "Isabela Gomes Silva",
+    "RuleTypeId": 1,
+    "Order": 1
+  },
+  {
+    "Id": "8d91599e-10ee-4657-df06-08dcb3262cf8",
+    "Name": "teste 6",
+    "Description": "teste ",
+    "RuleSyntax": "internalId  == \"{5}\"",
+    "IsEnable": 1,
+    "CreatedOn": "2024-08-02T19:06:10.293",
+    "CreatedBy": "Isabela Gomes Silva",
+    "RuleTypeId": 1,
+    "Order": 4
+  },
+  {
+    "Id": "8d91599e-10ee-4657-df06-08dcb3262cf8",
+    "Name": "teste 6",
+    "Description": "teste ",
+    "RuleSyntax": "taskId  == 5 ",
+    "IsEnable": 1,
+    "CreatedOn": "2024-08-02T19:06:10.293",
+    "CreatedBy": "Isabela Gomes Silva",
+    "RuleTypeId": 1,
+    "Order": 3
+  },
+  {
+    "Id": "8d91599e-10ee-4657-df06-08dcb3262cf8",
+    "Name": "teste 6",
+    "Description": "teste ",
+    "RuleSyntax": "onSite  == true",
+    "IsEnable": 1,
+    "CreatedOn": "2024-08-02T19:06:10.293",
+    "CreatedBy": "Isabela Gomes Silva",
+    "RuleTypeId": 1,
+    "Order": 5
+  },
+  {
+    "Id": "8d91599e-10ee-4657-df06-08dcb3262cf8",
+    "Name": "teste 6",
+    "Description": "teste ",
+    "RuleSyntax": "internalId  == \"{10}\"" ,
+    "IsEnable": 1,
+    "CreatedOn": "2024-08-02T19:06:10.293",
+    "CreatedBy": "Isabela Gomes Silva",
+    "RuleTypeId": 1,
+    "Order": 6
+  }
+
+
+]
